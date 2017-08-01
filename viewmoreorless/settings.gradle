@@ -1,1 +1,1 @@
-include ':app', ':viewmoreorless2'
+include ':app', ':textresizable'

@@ -1,0 +1,9 @@
+https://developer.android.com/studio/projects/android-library.html?hl=pt-br
+
+
+Arquivo settings do projeto que vai usar a biblioteca
+include ':app', ':nomedabiblioteca'
+
+Arquivo build.gradle do projeto que vai usar a biblioteca
+
+compile project(path: ':nomedabiblioteca')

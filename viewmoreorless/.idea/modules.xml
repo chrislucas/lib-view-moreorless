@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textresizable/textresizable.iml" filepath="$PROJECT_DIR$/textresizable/textresizable.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewmoreorless.iml" filepath="$PROJECT_DIR$/viewmoreorless.iml" />
-      <module fileurl="file://$PROJECT_DIR$/viewmoreorless2/viewmoreorless2.iml" filepath="$PROJECT_DIR$/viewmoreorless2/viewmoreorless2.iml" />
     </modules>
   </component>
 </project>

@@ -1,3 +1,39 @@
 <resources>
     <string name="app_name">viewmoreorless</string>
+
+    <string name="example_text_info">
+        Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se o entendimento
+        das metas propostas faz parte de um processo de gerenciamento do levantamento das variáveis
+        envolvidas. Caros amigos, o desenvolvimento contínuo de distintas formas de atuação oferece
+        uma interessante oportunidade para verificação das direções preferenciais no sentido do progresso.
+        Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a complexidade
+        dos estudos efetuados promove a alavancagem dos conhecimentos estratégicos para atingir a
+        excelência. No entanto, não podemos esquecer que o surgimento do comércio virtual afeta
+        positivamente a correta previsão de todos os recursos funcionais envolvidos.
+        O incentivo ao avanço tecnológico, assim como o consenso sobre a necessidade de qualificação
+        pode nos levar a considerar a reestruturação dos modos de operação convencionais.
+        A prática cotidiana prova que o comprometimento entre as equipes acarreta um processo de
+        reformulação e modernização das formas de ação. Todavia, o julgamento imparcial das eventualidades
+        agrega valor ao estabelecimento dos procedimentos normalmente adotados.
+        A certificação de metodologias que nos auxiliam a lidar com a valorização de fatores
+        subjetivos não pode mais se dissociar do processo de comunicação como um todo.
+        Pensando mais a longo prazo, a execução dos pontos do programa ainda não demonstrou
+        convincentemente que vai participar na mudança das condições inegavelmente apropriadas.
+    </string>
+
+    <string name="example_text_info_2">
+        Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se o entendimento
+        das metas propostas faz parte de um processo de gerenciamento do levantamento das variáveis envolvidas.
+        Caros amigos, o desenvolvimento contínuo de distintas formas de atuação oferece
+        uma interessante oportunidade para verificação das direções preferenciais no sentido do progresso.
+        Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a complexidade
+        dos estudos efetuados promove a alavancagem dos conhecimentos estratégicos para atingir a
+        excelência. No entanto, não podemos esquecer que o surgimento do comércio virtual afeta
+        positivamente a correta previsão de todos os recursos funcionais envolvidos.
+        O incentivo ao avanço tecnológico, assim como o consenso sobre a necessidade de qualificação
+        pode nos levar a considerar a reestruturação dos modos de operação convencionais.
+        A prática cotidiana prova que o comprometimento entre as equipes acarreta um processo de
+        reformulação e modernização.
+    </string>
+
 </resources>
